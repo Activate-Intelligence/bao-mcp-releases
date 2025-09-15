@@ -1,14 +1,14 @@
 {
-  "latest": "1.2.0",
+  "latest": "1.2.1",
   "minimum": "1.0.0",
   "releases": [
     {
-      "version": "1.2.0",
+      "version": "1.2.1",
       "date": "2025-09-15",
-      "url": "https://github.com/Activate-Intelligence/bao-mcp-releases/releases/download/v1.2.0/source.tar.gz",
-      "checksum": "8a23b0a5f8bd716ec394b2d91858c06441010a526a5d28bc6a6bdc4cb259167f",
+      "url": "https://github.com/Activate-Intelligence/bao-mcp-releases/releases/download/v1.2.1/source.tar.gz",
+      "checksum": "25d49753a73593bc68e70a08694b56eaf5ba2b8432a8ec13ac684989316fabc7",
       "breaking": false,
-      "notes": "Test update: Enhanced diagnostic output with version display in header"
+      "notes": "Compatibility fix: Remove optional chaining operators for Node.js 12+ compatibility"
     }
   ]
 }
