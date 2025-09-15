@@ -1,0 +1,14 @@
+{
+  "latest": "1.1.0",
+  "minimum": "1.0.0",
+  "releases": [
+    {
+      "version": "1.1.0",
+      "date": "2025-09-15",
+      "url": "https://github.com/Activate-Intelligence/bao-mcp-releases/releases/download/v1.1.0/source.tar.gz",
+      "checksum": "80ed50c8f2223115e64dc779807433d1b4ba4c11d3159d833052c3354a533651",
+      "breaking": false,
+      "notes": "Added debug tool and auto-update functionality"
+    }
+  ]
+}
